@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/a0viedo/test-actions/issues"
   },
-  "homepage": "https://github.com/a0viedo/test-actions#readme"
+  "homepage": "https://github.com/a0viedo/test-actions#readme",
+  "dependencies": {
+    "puppeteer": "^15.3.2"
+  }
 }
