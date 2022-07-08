@@ -1,0 +1,20 @@
+{
+  "name": "test-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Tests ran ok\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a0viedo/test-actions.git"
+  },
+  "keywords": [],
+  "author": "Alejandro Oviedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a0viedo/test-actions/issues"
+  },
+  "homepage": "https://github.com/a0viedo/test-actions#readme"
+}
